@@ -1,0 +1,1 @@
+spoton_rosetta::gpgEncrypt(): error (User defined error code 1) raised.
